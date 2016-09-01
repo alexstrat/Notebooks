@@ -1,2 +1,4 @@
 input/
 output/
+derby.log
+metastore_db/
